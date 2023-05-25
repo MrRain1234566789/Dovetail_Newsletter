@@ -1,0 +1,87 @@
+<mjml>
+    <mj-head>
+          <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100;1,300;1,400&display=swap" />
+        <mj-attributes>
+            <mj-image border-radius="10px">
+            <mj-text fontfamily="Roboto, sans-serif" font-size="18px"/>
+            <mj-button class="black_buttons" background="black" color="white" border-radius="10px" width="3rem" height="1rem"/>
+            <mj-button class="white_button" background="white" border="2px black solid" border-radius="10px" color="black" width="3rem" height="1rem" />
+            <mj-section padding="0" margin="0"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="white">
+        <mj-section>
+            <mj-column>
+                <mj-image src="images/dovetail-logo.png" alt="dovetail-logo" width="100px" align padding-bottom="20px" padding-left="20px" />
+            </mj-column>
+            <mj-column width="600px">
+                <mj-image src="images/Community_blog_hero__1_.png" alt="Community_blog_hero__1"/>
+            </mj-column>
+            <mj-column width="600px">
+                <mj-text font-size="20px" font-weight="bold">
+                    We’ve got some exciting news: the Dovetail community is here!
+                </mj-text>
+                <mj-text padding-bottom="10px">
+                  It’s the first-ever marketplace for people to share and learn different approaches to uncover customer insights. Research findings can be hard to share, leaving many people who want to be closer to their customers wondering where to start.
+                </mj-text>
+                <mj-text>
+                    Now you can get started quickly and confidently with 100+ project templates and tag boards from leading teams and your community. Choose a <a href="#" style="color: black;">project template</a> to suit your needs, add data, and start analyzing. Or add a <a href="#" style="color: black;">tag board</a> to any project to get a jump start on your tagging taxonomy.
+                </mj-text>
+            </mj-column>
+            <mj-column width="600px">
+                <mj-button align>Explore the community</mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="20px">
+            <mj-column width="600px">
+                <mj-image src="images/image__20_.png" alt="image__20" />
+            </mj-column>
+            <mj-column width="600px">
+                <mj-text font-weight="bold" font-size="12px">
+                    That’s enough preamble. Now, let’s get to some of our favorites.
+                </mj-text>
+                <mj-text>
+                    <ol>
+                        <li><a href="#" style="color: black;">Product feedback template</a>: connect themes across NPS, in-product feedback, and more</li>
+                        <li><a href="#" style="color: black;">Kickstarter's customer engagement template</a>: map the different stages of activation</li>
+                        <li><a href="#" style="color: black;">NPS response analysis template</a>: use charts to turn your survey feedback into insights</li>
+                        <li><a href="#" style="color: black;">Maze's unmoderated usability testing template</a>: use fields to slice up your data by browser, language, and more</li>
+                        <li><a href="#" style="color: black;">Creating personas tag board</a>: differentiate the behavior patterns of users and non-users</li>
+                        <li><a href="#" style="color: black;">Sprig's CSAT tag board</a>: group tags to identify areas of improvement, pains, and themes</li>
+                    </ol>
+                </mj-text>
+                <mj-text>
+                    The community isn’t just a place to explore and try templates. It’s an opportunity for you to <a href="#" style="color: black;">contribute your own approach</a> and elevate yourself and your team.   
+                </mj-text>
+                <mj-text>
+                    Explore, learn, and share in the new <a href="#" style="color: black;">Dovetail community</a>. Together, we’re building a community that’s contributing to the future of research—and we want you to be part of it!
+                </mj-text>
+            </mj-column>
+            <mj-column width="600px" padding-bottom="20px">
+                <mj-button >
+                    Explore the community  
+                </mj-button>
+                <mj-button class="white_button" background-color="white" border="2px black solid" color="black">
+                    Read the blog
+                </mj-button>
+            </mj-column>
+            <mj-divider width="600px" />
+        </mj-section>
+        <mj-section>
+            <mj-column width="600px">
+                <mj-image src="images/dovetail-logo.png" alt="dovetail-logo" width="100px" align />
+            </mj-column>
+            <mj-column width="600px">
+                <mj-text color="grey" font-size="10px">
+                    You received this email because you joined or created a workspace in Dovetail <a href="#" style="color: grey;">Unsubscribe</a>
+                </mj-text>
+                <mj-text color="grey" font-size="10px">
+                    <a href="#" style="color: grey;">Help center</a> · <a href="#" style="color: grey;">Blog</a> · <a href="#" style="color: grey;">Outlier</a> · <a href="#" style="color: grey;">Careers</a> · <a href="#" style="color: grey;">Slack</a> · <a href="#" style="color: grey;">Linkedin</a> · <a href="#" style="color: grey;">YouTube</a> · <a href="#" style="color: grey;">Twitter</a> · <a href="#" style="color: grey;">Instagram</a> · <a href="#" style="color: grey;">Legal and Privacy</a>
+                </mj-text>
+                <mj-text color="grey" font-size="10px">
+                    Dovetail - improving the quality of every thing.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
